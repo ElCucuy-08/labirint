@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40
+  controlID: 43
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 41
+  controlID: 44
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 45
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -594,7 +594,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -604,29 +604,30 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Coach\Documents\GitHub\labirint\HorLaba
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 399}
     m_SelectedIDs:
-    - m_Data: 49098
+    - m_Data: 49648
     m_LastClickedID:
-      m_Data: 49098
+      m_Data: 49648
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48800
-    - m_Data: 48802
-    - m_Data: 48804
-    - m_Data: 48806
-    - m_Data: 50564
-    - m_Data: 50570
-    - m_Data: 50596
-    - m_Data: 50606
-    - m_Data: 50666
+    - m_Data: 49524
+    - m_Data: 49526
+    - m_Data: 49528
+    - m_Data: 49530
+    - m_Data: 49532
+    - m_Data: 49534
+    - m_Data: 49536
+    - m_Data: 49538
+    - m_Data: 49540
+    - m_Data: 49640
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -659,10 +660,15 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48800
-    - m_Data: 48802
-    - m_Data: 48804
-    - m_Data: 48806
+    - m_Data: 49524
+    - m_Data: 49526
+    - m_Data: 49528
+    - m_Data: 49530
+    - m_Data: 49532
+    - m_Data: 49534
+    - m_Data: 49536
+    - m_Data: 49538
+    - m_Data: 49540
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -690,8 +696,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 48260
-    m_LastClickedInstanceID: 48260
+    - m_Data: 48618
+    m_LastClickedInstanceID: 48618
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -768,7 +774,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 443
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -816,12 +822,12 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 48260
+      - m_Data: 48618
       m_LastClickedID:
-        m_Data: 48260
+        m_Data: 48618
       m_ExpandedIDs:
       - m_Data: -1340
-      - m_Data: 48242
+      - m_Data: 48618
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -981,7 +987,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__left
-      displayed: 1
+      displayed: 0
       id: Terrain Tools
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -1358,9 +1364,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 127.5597, y: 1.2556814, z: 166.53027}
+    m_Target: {x: 127.77735, y: 0.9335648, z: 166.51642}
     speed: 2
-    m_Value: {x: 127.5597, y: 1.2556814, z: 166.53027}
+    m_Value: {x: 127.77735, y: 0.9335648, z: 166.51642}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1406,9 +1412,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00572562, y: -0.9904689, z: 0.0434198, w: 0.13060577}
+    m_Target: {x: 0.008267642, y: -0.9911295, z: 0.07478298, w: 0.10957262}
     speed: 2
-    m_Value: {x: 0.005725607, y: -0.99046665, z: 0.043419704, w: 0.13060547}
+    m_Value: {x: 0.008046576, y: -0.9911816, z: 0.0717971, w: 0.111083575}
   m_Size:
     m_Target: 2.5751393
     speed: 2
